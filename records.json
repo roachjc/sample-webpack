@@ -1,0 +1,230 @@
+{
+  "html-webpack-plugin for \"index.html\"": [
+    {
+      "modules": {
+        "byIdentifier": {
+          "node_modules/webpack/buildin/module.js": "3IRH",
+          "node_modules/webpack/buildin/global.js": "DuR2",
+          "node_modules/lodash/lodash.js": "M4fF",
+          "node_modules/html-webpack-plugin/lib/loader.js!node_modules/html-webpack-plugin/default_index.ejs": "a/t9"
+        },
+        "usedIds": {
+          "3IRH": "3IRH",
+          "DuR2": "DuR2",
+          "M4fF": "M4fF",
+          "a/t9": "a/t9"
+        }
+      },
+      "chunks": {
+        "byName": {},
+        "byBlocks": {},
+        "usedIds": {
+          "0": 0
+        }
+      }
+    }
+  ],
+  "extract-text-webpack-plugin node_modules/extract-text-webpack-plugin/dist node_modules/css-loader/index.js!node_modules/font-awesome/css/font-awesome.css": [
+    {
+      "modules": {
+        "byIdentifier": {
+          "node_modules/css-loader/index.js!node_modules/font-awesome/css/font-awesome.css": "8Jyo",
+          "node_modules/css-loader/lib/css-base.js": "FZ+f",
+          "node_modules/url-loader/index.js??ref--3!node_modules/font-awesome/fonts/fontawesome-webfont.svg?v=4.7.0": "Fqd/",
+          "node_modules/file-loader/index.js??ref--0!node_modules/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0": "IMLV",
+          "node_modules/file-loader/index.js??ref--0!node_modules/font-awesome/fonts/fontawesome-webfont.eot?v=4.7.0": "cEaC",
+          "node_modules/file-loader/index.js??ref--0!node_modules/font-awesome/fonts/fontawesome-webfont.eot": "cmUn",
+          "node_modules/file-loader/index.js??ref--0!node_modules/font-awesome/fonts/fontawesome-webfont.woff?v=4.7.0": "jNsU",
+          "node_modules/file-loader/index.js??ref--0!node_modules/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0": "of+2"
+        },
+        "usedIds": {
+          "8Jyo": "8Jyo",
+          "FZ+f": "FZ+f",
+          "Fqd/": "Fqd/",
+          "IMLV": "IMLV",
+          "cEaC": "cEaC",
+          "cmUn": "cmUn",
+          "jNsU": "jNsU",
+          "of+2": "of+2"
+        }
+      },
+      "chunks": {
+        "byName": {},
+        "byBlocks": {},
+        "usedIds": {
+          "0": 0
+        }
+      }
+    }
+  ],
+  "extract-text-webpack-plugin node_modules/extract-text-webpack-plugin/dist node_modules/css-loader/index.js!app/main.css": [
+    {
+      "modules": {
+        "byIdentifier": {
+          "node_modules/css-loader/lib/css-base.js": "FZ+f",
+          "node_modules/css-loader/index.js!app/main.css": "JPRM",
+          "node_modules/url-loader/index.js??ref--3!app/logo.png": "plR0"
+        },
+        "usedIds": {
+          "FZ+f": "FZ+f",
+          "JPRM": "JPRM",
+          "plR0": "plR0"
+        }
+      },
+      "chunks": {
+        "byName": {},
+        "byBlocks": {},
+        "usedIds": {
+          "0": 0
+        }
+      }
+    }
+  ],
+  "extract-text-webpack-plugin node_modules/extract-text-webpack-plugin/dist node_modules/css-loader/index.js!node_modules/purecss/build/pure-min.css": [
+    {
+      "modules": {
+        "byIdentifier": {
+          "node_modules/css-loader/lib/css-base.js": "FZ+f",
+          "node_modules/css-loader/index.js!node_modules/purecss/build/pure-min.css": "FeVs"
+        },
+        "usedIds": {
+          "FZ+f": "FZ+f",
+          "FeVs": "FeVs"
+        }
+      },
+      "chunks": {
+        "byName": {},
+        "byBlocks": {},
+        "usedIds": {
+          "0": 0
+        }
+      }
+    }
+  ],
+  "modules": {
+    "byIdentifier": {
+      "node_modules/extract-text-webpack-plugin/dist/loader.js??ref--2-0!node_modules/style-loader/index.js!node_modules/css-loader/index.js!app/main.css": "1Q41",
+      "node_modules/babel-loader/lib/index.js??ref--1!app/index.js": "2twT",
+      "node_modules/extract-text-webpack-plugin/dist/loader.js??ref--2-0!node_modules/style-loader/index.js!node_modules/css-loader/index.js!node_modules/font-awesome/css/font-awesome.css": "5W1q",
+      "node_modules/react/lib/onlyChild.js": "5WN7",
+      "node_modules/css-loader/index.js!node_modules/font-awesome/css/font-awesome.css": "8Jyo",
+      "node_modules/react/lib/getIteratorFn.js": "8iJM",
+      "node_modules/react/lib/PooledClass.js": "9SWq",
+      "node_modules/object-assign/index.js": "BEQ0",
+      "node_modules/react/lib/ReactNoopUpdateQueue.js": "CO2B",
+      "node_modules/css-loader/lib/css-base.js": "FZ+f",
+      "node_modules/css-loader/index.js!node_modules/purecss/build/pure-min.css": "FeVs",
+      "node_modules/url-loader/index.js??ref--3!node_modules/font-awesome/fonts/fontawesome-webfont.svg?v=4.7.0": "Fqd/",
+      "node_modules/react/lib/React.js": "G1ow",
+      "node_modules/react/lib/ReactVersion.js": "GjCS",
+      "node_modules/file-loader/index.js??ref--0!node_modules/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0": "IMLV",
+      "node_modules/prop-types/checkPropTypes.js": "Ie6m",
+      "node_modules/css-loader/index.js!app/main.css": "JPRM",
+      "node_modules/react/lib/createClass.js": "JYGa",
+      "node_modules/prop-types/factoryWithTypeCheckers.js": "JtmH",
+      "node_modules/react/lib/ReactElementSymbol.js": "KKHy",
+      "node_modules/extract-text-webpack-plugin/dist/loader.js??ref--2-0!node_modules/style-loader/index.js!node_modules/css-loader/index.js!app/lazy.css": "KMic",
+      "node_modules/react/lib/ReactChildren.js": "LTDs",
+      "node_modules/style-loader/lib/addStyles.js": "MTIv",
+      "node_modules/react/lib/traverseAllChildren.js": "MryT",
+      "node_modules/react/lib/ReactBaseClasses.js": "O6dE",
+      "node_modules/react/lib/canDefineProperty.js": "RFlT",
+      "node_modules/react/lib/ReactPropTypes.js": "S+kE",
+      "node_modules/fbjs/lib/emptyObject.js": "TJez",
+      "node_modules/react/react.js": "U7vG",
+      "node_modules/react/lib/ReactElement.js": "W2D2",
+      "node_modules/babel-loader/lib/index.js??ref--1!app/component.js": "YL6N",
+      "node_modules/fbjs/lib/warning.js": "YyeZ",
+      "node_modules/react/lib/reactProdInvariant.js": "ar93",
+      "node_modules/react/lib/lowPriorityWarning.js": "bVsJ",
+      "node_modules/extract-text-webpack-plugin/dist/loader.js??ref--2-0!node_modules/style-loader/index.js!node_modules/css-loader/index.js!node_modules/purecss/build/pure-min.css": "c5m/",
+      "node_modules/file-loader/index.js??ref--0!node_modules/font-awesome/fonts/fontawesome-webfont.eot?v=4.7.0": "cEaC",
+      "node_modules/file-loader/index.js??ref--0!node_modules/font-awesome/fonts/fontawesome-webfont.eot": "cmUn",
+      "node_modules/babel-loader/lib/index.js??ref--1!app/lazy.js": "co9Y",
+      "node_modules/fbjs/lib/invariant.js": "cxPT",
+      "node_modules/fbjs/lib/emptyFunction.js": "e6+Q",
+      "node_modules/prop-types/factory.js": "fQuc",
+      "node_modules/prop-types/lib/ReactPropTypesSecret.js": "gt/O",
+      "node_modules/file-loader/index.js??ref--0!node_modules/font-awesome/fonts/fontawesome-webfont.woff?v=4.7.0": "jNsU",
+      "node_modules/react/lib/ReactCurrentOwner.js": "kvXm",
+      "node_modules/style-loader/lib/urls.js": "mJPh",
+      "node_modules/css-loader/index.js!app/lazy.css": "nfvu",
+      "node_modules/file-loader/index.js??ref--0!node_modules/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0": "of+2",
+      "node_modules/react/lib/KeyEscapeUtils.js": "pV5o",
+      "node_modules/url-loader/index.js??ref--3!app/logo.png": "plR0",
+      "node_modules/react/lib/ReactDOMFactories.js": "vUzd",
+      "node_modules/create-react-class/factory.js": "wqO5",
+      "node_modules/babel-loader/lib/index.js??ref--1!app/shake.js": "yUGL"
+    },
+    "usedIds": {
+      "1Q41": "1Q41",
+      "2twT": "2twT",
+      "5W1q": "5W1q",
+      "5WN7": "5WN7",
+      "8Jyo": "8Jyo",
+      "8iJM": "8iJM",
+      "9SWq": "9SWq",
+      "BEQ0": "BEQ0",
+      "CO2B": "CO2B",
+      "FZ+f": "FZ+f",
+      "FeVs": "FeVs",
+      "Fqd/": "Fqd/",
+      "G1ow": "G1ow",
+      "GjCS": "GjCS",
+      "IMLV": "IMLV",
+      "Ie6m": "Ie6m",
+      "JPRM": "JPRM",
+      "JYGa": "JYGa",
+      "JtmH": "JtmH",
+      "KKHy": "KKHy",
+      "KMic": "KMic",
+      "LTDs": "LTDs",
+      "MTIv": "MTIv",
+      "MryT": "MryT",
+      "O6dE": "O6dE",
+      "RFlT": "RFlT",
+      "S+kE": "S+kE",
+      "TJez": "TJez",
+      "U7vG": "U7vG",
+      "W2D2": "W2D2",
+      "YL6N": "YL6N",
+      "YyeZ": "YyeZ",
+      "ar93": "ar93",
+      "bVsJ": "bVsJ",
+      "c5m/": "c5m/",
+      "cEaC": "cEaC",
+      "cmUn": "cmUn",
+      "co9Y": "co9Y",
+      "cxPT": "cxPT",
+      "e6+Q": "e6+Q",
+      "fQuc": "fQuc",
+      "gt/O": "gt/O",
+      "jNsU": "jNsU",
+      "kvXm": "kvXm",
+      "mJPh": "mJPh",
+      "nfvu": "nfvu",
+      "of+2": "of+2",
+      "pV5o": "pV5o",
+      "plR0": "plR0",
+      "vUzd": "vUzd",
+      "wqO5": "wqO5",
+      "yUGL": "yUGL"
+    }
+  },
+  "chunks": {
+    "byName": {
+      "vendor": 1,
+      "app": 2,
+      "manifest": 3
+    },
+    "byBlocks": {
+      "node_modules/babel-loader/lib/index.js??ref--1!app/component.js:0/0": 0
+    },
+    "usedIds": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3
+    }
+  }
+}

@@ -1,0 +1,8 @@
+body {
+  background: cornsilk;
+  font-family: sans-serif;
+  font-size: 24px;
+  background-image: url('./logo.png');
+  background-repeat: no-repeat;
+  background-position: center;
+}
