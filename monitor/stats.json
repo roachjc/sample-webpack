@@ -1,0 +1,4256 @@
+[
+  {
+    "timeStamp": 1505350539746,
+    "hash": "ee801a0fe58a0e41465e",
+    "version": "3.5.6",
+    "errors": [],
+    "modules": [
+      {
+        "name": "./app/main.css",
+        "size": 41,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./app/index.js",
+        "size": 218,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/font-awesome/css/font-awesome.css",
+        "size": 41,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/onlyChild.js",
+        "size": 1338,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/css-loader!./node_modules/font-awesome/css/font-awesome.css",
+        "size": 42041,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/getIteratorFn.js",
+        "size": 1119,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/PooledClass.js",
+        "size": 3356,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/object-assign/index.js",
+        "size": 2108,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/ReactNoopUpdateQueue.js",
+        "size": 3362,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/css-loader/lib/css-base.js",
+        "size": 2260,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/css-loader!./node_modules/purecss/build/pure-min.css",
+        "size": 16621,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/font-awesome/fonts/fontawesome-webfont.svg?v=4.7.0",
+        "size": 78,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/React.js",
+        "size": 5078,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/ReactVersion.js",
+        "size": 350,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0",
+        "size": 78,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/prop-types/checkPropTypes.js",
+        "size": 2935,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/css-loader!./app/main.css",
+        "size": 367,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/createClass.js",
+        "size": 688,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/prop-types/factoryWithTypeCheckers.js",
+        "size": 18600,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/ReactElementSymbol.js",
+        "size": 622,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./app/lazy.css",
+        "size": 997,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/ReactChildren.js",
+        "size": 6189,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/style-loader/lib/addStyles.js",
+        "size": 8704,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/traverseAllChildren.js",
+        "size": 7030,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/ReactBaseClasses.js",
+        "size": 5436,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/canDefineProperty.js",
+        "size": 661,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/ReactPropTypes.js",
+        "size": 500,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/fbjs/lib/emptyObject.js",
+        "size": 458,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/react.js",
+        "size": 56,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/ReactElement.js",
+        "size": 11233,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./app/component.js",
+        "size": 356,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/fbjs/lib/warning.js",
+        "size": 2016,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/reactProdInvariant.js",
+        "size": 1236,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/lowPriorityWarning.js",
+        "size": 2162,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/purecss/build/pure-min.css",
+        "size": 41,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/font-awesome/fonts/fontawesome-webfont.eot?v=4.7.0",
+        "size": 78,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/font-awesome/fonts/fontawesome-webfont.eot",
+        "size": 78,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./app/lazy.js",
+        "size": 55,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/fbjs/lib/invariant.js",
+        "size": 1632,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/fbjs/lib/emptyFunction.js",
+        "size": 1085,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/prop-types/factory.js",
+        "size": 890,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/prop-types/lib/ReactPropTypesSecret.js",
+        "size": 436,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/font-awesome/fonts/fontawesome-webfont.woff?v=4.7.0",
+        "size": 79,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/ReactCurrentOwner.js",
+        "size": 621,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/style-loader/lib/urls.js",
+        "size": 3008,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/css-loader!./app/lazy.css",
+        "size": 188,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0",
+        "size": 80,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/KeyEscapeUtils.js",
+        "size": 1294,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./app/logo.png",
+        "size": 1117,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/ReactDOMFactories.js",
+        "size": 5481,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/create-react-class/factory.js",
+        "size": 28376,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./app/shake.js",
+        "size": 106,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      }
+    ],
+    "size": 132363,
+    "chunks": [
+      {
+        "size": 1240,
+        "files": [
+          "0.6b7419e4.js",
+          "0.6b7419e4.js.map"
+        ],
+        "modules": [
+          {
+            "name": "./app/lazy.css",
+            "size": 997
+          },
+          {
+            "name": "./app/lazy.js",
+            "size": 55
+          },
+          {
+            "name": "./node_modules/css-loader!./app/lazy.css",
+            "size": 188
+          }
+        ],
+        "parents": [
+          2
+        ],
+        "rendered": true,
+        "inital": false,
+        "entry": false
+      },
+      {
+        "size": 130320,
+        "files": [
+          "vendor.34ea39ef.js",
+          "vendor.34ea39ef.js.map"
+        ],
+        "modules": [
+          {
+            "name": "./node_modules/react/lib/onlyChild.js",
+            "size": 1338
+          },
+          {
+            "name": "./node_modules/react/lib/getIteratorFn.js",
+            "size": 1119
+          },
+          {
+            "name": "./node_modules/react/lib/PooledClass.js",
+            "size": 3356
+          },
+          {
+            "name": "./node_modules/object-assign/index.js",
+            "size": 2108
+          },
+          {
+            "name": "./node_modules/react/lib/ReactNoopUpdateQueue.js",
+            "size": 3362
+          },
+          {
+            "name": "./node_modules/css-loader/lib/css-base.js",
+            "size": 2260
+          },
+          {
+            "name": "./node_modules/react/lib/React.js",
+            "size": 5078
+          },
+          {
+            "name": "./node_modules/react/lib/ReactVersion.js",
+            "size": 350
+          },
+          {
+            "name": "./node_modules/prop-types/checkPropTypes.js",
+            "size": 2935
+          },
+          {
+            "name": "./node_modules/react/lib/createClass.js",
+            "size": 688
+          },
+          {
+            "name": "./node_modules/prop-types/factoryWithTypeCheckers.js",
+            "size": 18600
+          },
+          {
+            "name": "./node_modules/react/lib/ReactElementSymbol.js",
+            "size": 622
+          },
+          {
+            "name": "./node_modules/react/lib/ReactChildren.js",
+            "size": 6189
+          },
+          {
+            "name": "./node_modules/style-loader/lib/addStyles.js",
+            "size": 8704
+          },
+          {
+            "name": "./node_modules/react/lib/traverseAllChildren.js",
+            "size": 7030
+          },
+          {
+            "name": "./node_modules/react/lib/ReactBaseClasses.js",
+            "size": 5436
+          },
+          {
+            "name": "./node_modules/react/lib/canDefineProperty.js",
+            "size": 661
+          },
+          {
+            "name": "./node_modules/react/lib/ReactPropTypes.js",
+            "size": 500
+          },
+          {
+            "name": "./node_modules/fbjs/lib/emptyObject.js",
+            "size": 458
+          },
+          {
+            "name": "./node_modules/react/react.js",
+            "size": 56
+          },
+          {
+            "name": "./node_modules/react/lib/ReactElement.js",
+            "size": 11233
+          },
+          {
+            "name": "./node_modules/fbjs/lib/warning.js",
+            "size": 2016
+          },
+          {
+            "name": "./node_modules/react/lib/reactProdInvariant.js",
+            "size": 1236
+          },
+          {
+            "name": "./node_modules/react/lib/lowPriorityWarning.js",
+            "size": 2162
+          },
+          {
+            "name": "./node_modules/fbjs/lib/invariant.js",
+            "size": 1632
+          },
+          {
+            "name": "./node_modules/fbjs/lib/emptyFunction.js",
+            "size": 1085
+          },
+          {
+            "name": "./node_modules/prop-types/factory.js",
+            "size": 890
+          },
+          {
+            "name": "./node_modules/prop-types/lib/ReactPropTypesSecret.js",
+            "size": 436
+          },
+          {
+            "name": "./node_modules/react/lib/ReactCurrentOwner.js",
+            "size": 621
+          },
+          {
+            "name": "./node_modules/style-loader/lib/urls.js",
+            "size": 3008
+          },
+          {
+            "name": "./node_modules/react/lib/KeyEscapeUtils.js",
+            "size": 1294
+          },
+          {
+            "name": "./node_modules/react/lib/ReactDOMFactories.js",
+            "size": 5481
+          },
+          {
+            "name": "./node_modules/create-react-class/factory.js",
+            "size": 28376
+          }
+        ],
+        "parents": [
+          3
+        ],
+        "rendered": true,
+        "inital": true,
+        "entry": false
+      },
+      {
+        "size": 803,
+        "files": [
+          "app.2dc3127a.js",
+          "app.8ac75fe2.css",
+          "app.2dc3127a.js.map",
+          "app.8ac75fe2.css.map"
+        ],
+        "modules": [
+          {
+            "name": "./app/main.css",
+            "size": 41
+          },
+          {
+            "name": "./app/index.js",
+            "size": 218
+          },
+          {
+            "name": "./node_modules/font-awesome/css/font-awesome.css",
+            "size": 41
+          },
+          {
+            "name": "./app/component.js",
+            "size": 356
+          },
+          {
+            "name": "./node_modules/purecss/build/pure-min.css",
+            "size": 41
+          },
+          {
+            "name": "./app/shake.js",
+            "size": 106
+          }
+        ],
+        "parents": [
+          1
+        ],
+        "rendered": true,
+        "inital": true,
+        "entry": false
+      },
+      {
+        "size": 0,
+        "files": [
+          "manifest.d174d360.js",
+          "manifest.d174d360.js.map"
+        ],
+        "modules": [],
+        "parents": [],
+        "rendered": true,
+        "inital": true,
+        "entry": true
+      }
+    ],
+    "assets": [
+      {
+        "name": "manifest.d174d360.js",
+        "chunks": [
+          3
+        ],
+        "size": 1509
+      },
+      {
+        "name": "fontawesome-webfont.912ec66d.svg",
+        "chunks": [],
+        "size": 444379
+      },
+      {
+        "name": "fontawesome-webfont.674f50d2.eot",
+        "chunks": [],
+        "size": 165742
+      },
+      {
+        "name": "fontawesome-webfont.fee66e71.woff",
+        "chunks": [],
+        "size": 98024
+      },
+      {
+        "name": "fontawesome-webfont.af7ae505.woff2",
+        "chunks": [],
+        "size": 77160
+      },
+      {
+        "name": "0.6b7419e4.js",
+        "chunks": [
+          0
+        ],
+        "size": 470
+      },
+      {
+        "name": "vendor.34ea39ef.js",
+        "chunks": [
+          1
+        ],
+        "size": 27157
+      },
+      {
+        "name": "app.2dc3127a.js",
+        "chunks": [
+          2
+        ],
+        "size": 791
+      },
+      {
+        "name": "fontawesome-webfont.b06871f2.ttf",
+        "chunks": [],
+        "size": 165548
+      },
+      {
+        "name": "app.8ac75fe2.css",
+        "chunks": [
+          2
+        ],
+        "size": 3614
+      },
+      {
+        "name": "0.6b7419e4.js.map",
+        "chunks": [
+          0
+        ],
+        "size": 1892
+      },
+      {
+        "name": "vendor.34ea39ef.js.map",
+        "chunks": [
+          1
+        ],
+        "size": 150696
+      },
+      {
+        "name": "app.2dc3127a.js.map",
+        "chunks": [
+          2
+        ],
+        "size": 1953
+      },
+      {
+        "name": "app.8ac75fe2.css.map",
+        "chunks": [
+          2
+        ],
+        "size": 93
+      },
+      {
+        "name": "manifest.d174d360.js.map",
+        "chunks": [
+          3
+        ],
+        "size": 5808
+      },
+      {
+        "name": "index.html",
+        "chunks": [],
+        "size": 368
+      },
+      {
+        "name": "../monitor/stats.json",
+        "chunks": [],
+        "size": 0
+      }
+    ]
+  },
+  {
+    "timeStamp": 1505350579814,
+    "hash": "1df678b1d92ca4997904",
+    "version": "3.5.6",
+    "errors": [],
+    "modules": [
+      {
+        "name": "./app/main.css",
+        "size": 41,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./app/index.js",
+        "size": 218,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/font-awesome/css/font-awesome.css",
+        "size": 41,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/onlyChild.js",
+        "size": 1338,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/css-loader!./node_modules/font-awesome/css/font-awesome.css",
+        "size": 42041,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/getIteratorFn.js",
+        "size": 1119,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/PooledClass.js",
+        "size": 3356,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/object-assign/index.js",
+        "size": 2108,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/ReactNoopUpdateQueue.js",
+        "size": 3362,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/css-loader/lib/css-base.js",
+        "size": 2260,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/css-loader!./node_modules/purecss/build/pure-min.css",
+        "size": 16621,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/font-awesome/fonts/fontawesome-webfont.svg?v=4.7.0",
+        "size": 78,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/React.js",
+        "size": 5078,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/ReactVersion.js",
+        "size": 350,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0",
+        "size": 78,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/prop-types/checkPropTypes.js",
+        "size": 2935,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/css-loader!./app/main.css",
+        "size": 367,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/createClass.js",
+        "size": 688,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/prop-types/factoryWithTypeCheckers.js",
+        "size": 18600,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/ReactElementSymbol.js",
+        "size": 622,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./app/lazy.css",
+        "size": 997,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/ReactChildren.js",
+        "size": 6189,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/style-loader/lib/addStyles.js",
+        "size": 8704,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/traverseAllChildren.js",
+        "size": 7030,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/ReactBaseClasses.js",
+        "size": 5436,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/canDefineProperty.js",
+        "size": 661,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/ReactPropTypes.js",
+        "size": 500,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/fbjs/lib/emptyObject.js",
+        "size": 458,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/react.js",
+        "size": 56,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/ReactElement.js",
+        "size": 11233,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./app/component.js",
+        "size": 356,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/fbjs/lib/warning.js",
+        "size": 2016,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/reactProdInvariant.js",
+        "size": 1236,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/lowPriorityWarning.js",
+        "size": 2162,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/purecss/build/pure-min.css",
+        "size": 41,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/font-awesome/fonts/fontawesome-webfont.eot?v=4.7.0",
+        "size": 78,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/font-awesome/fonts/fontawesome-webfont.eot",
+        "size": 78,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./app/lazy.js",
+        "size": 55,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/fbjs/lib/invariant.js",
+        "size": 1632,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/fbjs/lib/emptyFunction.js",
+        "size": 1085,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/prop-types/factory.js",
+        "size": 890,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/prop-types/lib/ReactPropTypesSecret.js",
+        "size": 436,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/font-awesome/fonts/fontawesome-webfont.woff?v=4.7.0",
+        "size": 79,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/ReactCurrentOwner.js",
+        "size": 621,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/style-loader/lib/urls.js",
+        "size": 3008,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/css-loader!./app/lazy.css",
+        "size": 188,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0",
+        "size": 80,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/KeyEscapeUtils.js",
+        "size": 1294,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./app/logo.png",
+        "size": 1117,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/ReactDOMFactories.js",
+        "size": 5481,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/create-react-class/factory.js",
+        "size": 28376,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./app/shake.js",
+        "size": 106,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      }
+    ],
+    "size": 132363,
+    "chunks": [
+      {
+        "size": 1240,
+        "files": [
+          "0.6b7419e4.js",
+          "0.6b7419e4.js.map"
+        ],
+        "modules": [
+          {
+            "name": "./app/lazy.css",
+            "size": 997
+          },
+          {
+            "name": "./app/lazy.js",
+            "size": 55
+          },
+          {
+            "name": "./node_modules/css-loader!./app/lazy.css",
+            "size": 188
+          }
+        ],
+        "parents": [
+          2
+        ],
+        "rendered": true,
+        "inital": false,
+        "entry": false
+      },
+      {
+        "size": 130320,
+        "files": [
+          "vendor.34ea39ef.js",
+          "vendor.34ea39ef.js.map"
+        ],
+        "modules": [
+          {
+            "name": "./node_modules/react/lib/onlyChild.js",
+            "size": 1338
+          },
+          {
+            "name": "./node_modules/react/lib/getIteratorFn.js",
+            "size": 1119
+          },
+          {
+            "name": "./node_modules/react/lib/PooledClass.js",
+            "size": 3356
+          },
+          {
+            "name": "./node_modules/object-assign/index.js",
+            "size": 2108
+          },
+          {
+            "name": "./node_modules/react/lib/ReactNoopUpdateQueue.js",
+            "size": 3362
+          },
+          {
+            "name": "./node_modules/css-loader/lib/css-base.js",
+            "size": 2260
+          },
+          {
+            "name": "./node_modules/react/lib/React.js",
+            "size": 5078
+          },
+          {
+            "name": "./node_modules/react/lib/ReactVersion.js",
+            "size": 350
+          },
+          {
+            "name": "./node_modules/prop-types/checkPropTypes.js",
+            "size": 2935
+          },
+          {
+            "name": "./node_modules/react/lib/createClass.js",
+            "size": 688
+          },
+          {
+            "name": "./node_modules/prop-types/factoryWithTypeCheckers.js",
+            "size": 18600
+          },
+          {
+            "name": "./node_modules/react/lib/ReactElementSymbol.js",
+            "size": 622
+          },
+          {
+            "name": "./node_modules/react/lib/ReactChildren.js",
+            "size": 6189
+          },
+          {
+            "name": "./node_modules/style-loader/lib/addStyles.js",
+            "size": 8704
+          },
+          {
+            "name": "./node_modules/react/lib/traverseAllChildren.js",
+            "size": 7030
+          },
+          {
+            "name": "./node_modules/react/lib/ReactBaseClasses.js",
+            "size": 5436
+          },
+          {
+            "name": "./node_modules/react/lib/canDefineProperty.js",
+            "size": 661
+          },
+          {
+            "name": "./node_modules/react/lib/ReactPropTypes.js",
+            "size": 500
+          },
+          {
+            "name": "./node_modules/fbjs/lib/emptyObject.js",
+            "size": 458
+          },
+          {
+            "name": "./node_modules/react/react.js",
+            "size": 56
+          },
+          {
+            "name": "./node_modules/react/lib/ReactElement.js",
+            "size": 11233
+          },
+          {
+            "name": "./node_modules/fbjs/lib/warning.js",
+            "size": 2016
+          },
+          {
+            "name": "./node_modules/react/lib/reactProdInvariant.js",
+            "size": 1236
+          },
+          {
+            "name": "./node_modules/react/lib/lowPriorityWarning.js",
+            "size": 2162
+          },
+          {
+            "name": "./node_modules/fbjs/lib/invariant.js",
+            "size": 1632
+          },
+          {
+            "name": "./node_modules/fbjs/lib/emptyFunction.js",
+            "size": 1085
+          },
+          {
+            "name": "./node_modules/prop-types/factory.js",
+            "size": 890
+          },
+          {
+            "name": "./node_modules/prop-types/lib/ReactPropTypesSecret.js",
+            "size": 436
+          },
+          {
+            "name": "./node_modules/react/lib/ReactCurrentOwner.js",
+            "size": 621
+          },
+          {
+            "name": "./node_modules/style-loader/lib/urls.js",
+            "size": 3008
+          },
+          {
+            "name": "./node_modules/react/lib/KeyEscapeUtils.js",
+            "size": 1294
+          },
+          {
+            "name": "./node_modules/react/lib/ReactDOMFactories.js",
+            "size": 5481
+          },
+          {
+            "name": "./node_modules/create-react-class/factory.js",
+            "size": 28376
+          }
+        ],
+        "parents": [
+          3
+        ],
+        "rendered": true,
+        "inital": true,
+        "entry": false
+      },
+      {
+        "size": 803,
+        "files": [
+          "app.2dc3127a.js",
+          "app.8ac75fe2.css",
+          "app.2dc3127a.js.map",
+          "app.8ac75fe2.css.map"
+        ],
+        "modules": [
+          {
+            "name": "./app/main.css",
+            "size": 41
+          },
+          {
+            "name": "./app/index.js",
+            "size": 218
+          },
+          {
+            "name": "./node_modules/font-awesome/css/font-awesome.css",
+            "size": 41
+          },
+          {
+            "name": "./app/component.js",
+            "size": 356
+          },
+          {
+            "name": "./node_modules/purecss/build/pure-min.css",
+            "size": 41
+          },
+          {
+            "name": "./app/shake.js",
+            "size": 106
+          }
+        ],
+        "parents": [
+          1
+        ],
+        "rendered": true,
+        "inital": true,
+        "entry": false
+      },
+      {
+        "size": 0,
+        "files": [
+          "manifest.d174d360.js",
+          "manifest.d174d360.js.map"
+        ],
+        "modules": [],
+        "parents": [],
+        "rendered": true,
+        "inital": true,
+        "entry": true
+      }
+    ],
+    "assets": [
+      {
+        "name": "manifest.d174d360.js",
+        "chunks": [
+          3
+        ],
+        "size": 1509
+      },
+      {
+        "name": "fontawesome-webfont.912ec66d.svg",
+        "chunks": [],
+        "size": 444379
+      },
+      {
+        "name": "fontawesome-webfont.674f50d2.eot",
+        "chunks": [],
+        "size": 165742
+      },
+      {
+        "name": "fontawesome-webfont.fee66e71.woff",
+        "chunks": [],
+        "size": 98024
+      },
+      {
+        "name": "fontawesome-webfont.af7ae505.woff2",
+        "chunks": [],
+        "size": 77160
+      },
+      {
+        "name": "0.6b7419e4.js",
+        "chunks": [
+          0
+        ],
+        "size": 470
+      },
+      {
+        "name": "vendor.34ea39ef.js",
+        "chunks": [
+          1
+        ],
+        "size": 27157
+      },
+      {
+        "name": "app.2dc3127a.js",
+        "chunks": [
+          2
+        ],
+        "size": 791
+      },
+      {
+        "name": "fontawesome-webfont.b06871f2.ttf",
+        "chunks": [],
+        "size": 165548
+      },
+      {
+        "name": "app.8ac75fe2.css",
+        "chunks": [
+          2
+        ],
+        "size": 3614
+      },
+      {
+        "name": "0.6b7419e4.js.map",
+        "chunks": [
+          0
+        ],
+        "size": 1892
+      },
+      {
+        "name": "vendor.34ea39ef.js.map",
+        "chunks": [
+          1
+        ],
+        "size": 150696
+      },
+      {
+        "name": "app.2dc3127a.js.map",
+        "chunks": [
+          2
+        ],
+        "size": 1953
+      },
+      {
+        "name": "app.8ac75fe2.css.map",
+        "chunks": [
+          2
+        ],
+        "size": 93
+      },
+      {
+        "name": "manifest.d174d360.js.map",
+        "chunks": [
+          3
+        ],
+        "size": 5808
+      },
+      {
+        "name": "index.html",
+        "chunks": [],
+        "size": 368
+      },
+      {
+        "name": "../monitor/stats.json",
+        "chunks": [],
+        "size": 1
+      }
+    ]
+  },
+  {
+    "timeStamp": 1505404652442,
+    "hash": "ee801a0fe58a0e41465e",
+    "version": "3.5.6",
+    "errors": [],
+    "modules": [
+      {
+        "name": "./app/main.css",
+        "size": 41,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./app/index.js",
+        "size": 218,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/font-awesome/css/font-awesome.css",
+        "size": 41,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/onlyChild.js",
+        "size": 1338,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/css-loader!./node_modules/font-awesome/css/font-awesome.css",
+        "size": 42041,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/getIteratorFn.js",
+        "size": 1119,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/PooledClass.js",
+        "size": 3356,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/object-assign/index.js",
+        "size": 2108,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/ReactNoopUpdateQueue.js",
+        "size": 3362,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/css-loader/lib/css-base.js",
+        "size": 2260,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/css-loader!./node_modules/purecss/build/pure-min.css",
+        "size": 16621,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/font-awesome/fonts/fontawesome-webfont.svg?v=4.7.0",
+        "size": 78,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/React.js",
+        "size": 5078,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/ReactVersion.js",
+        "size": 350,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0",
+        "size": 78,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/prop-types/checkPropTypes.js",
+        "size": 2935,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/css-loader!./app/main.css",
+        "size": 367,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/createClass.js",
+        "size": 688,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/prop-types/factoryWithTypeCheckers.js",
+        "size": 18600,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/ReactElementSymbol.js",
+        "size": 622,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./app/lazy.css",
+        "size": 997,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/ReactChildren.js",
+        "size": 6189,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/style-loader/lib/addStyles.js",
+        "size": 8704,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/traverseAllChildren.js",
+        "size": 7030,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/ReactBaseClasses.js",
+        "size": 5436,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/canDefineProperty.js",
+        "size": 661,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/ReactPropTypes.js",
+        "size": 500,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/fbjs/lib/emptyObject.js",
+        "size": 458,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/react.js",
+        "size": 56,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/ReactElement.js",
+        "size": 11233,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./app/component.js",
+        "size": 356,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/fbjs/lib/warning.js",
+        "size": 2016,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/reactProdInvariant.js",
+        "size": 1236,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/lowPriorityWarning.js",
+        "size": 2162,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/purecss/build/pure-min.css",
+        "size": 41,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/font-awesome/fonts/fontawesome-webfont.eot?v=4.7.0",
+        "size": 78,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/font-awesome/fonts/fontawesome-webfont.eot",
+        "size": 78,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./app/lazy.js",
+        "size": 55,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/fbjs/lib/invariant.js",
+        "size": 1632,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/fbjs/lib/emptyFunction.js",
+        "size": 1085,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/prop-types/factory.js",
+        "size": 890,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/prop-types/lib/ReactPropTypesSecret.js",
+        "size": 436,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/font-awesome/fonts/fontawesome-webfont.woff?v=4.7.0",
+        "size": 79,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/ReactCurrentOwner.js",
+        "size": 621,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/style-loader/lib/urls.js",
+        "size": 3008,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/css-loader!./app/lazy.css",
+        "size": 188,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0",
+        "size": 80,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/KeyEscapeUtils.js",
+        "size": 1294,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./app/logo.png",
+        "size": 1117,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/ReactDOMFactories.js",
+        "size": 5481,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/create-react-class/factory.js",
+        "size": 28376,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./app/shake.js",
+        "size": 106,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      }
+    ],
+    "size": 132363,
+    "chunks": [
+      {
+        "size": 1240,
+        "files": [
+          "0.6b7419e4.js",
+          "0.6b7419e4.js.map"
+        ],
+        "modules": [
+          {
+            "name": "./app/lazy.css",
+            "size": 997
+          },
+          {
+            "name": "./app/lazy.js",
+            "size": 55
+          },
+          {
+            "name": "./node_modules/css-loader!./app/lazy.css",
+            "size": 188
+          }
+        ],
+        "parents": [
+          2
+        ],
+        "rendered": true,
+        "inital": false,
+        "entry": false
+      },
+      {
+        "size": 130320,
+        "files": [
+          "vendor.34ea39ef.js",
+          "vendor.34ea39ef.js.map"
+        ],
+        "modules": [
+          {
+            "name": "./node_modules/react/lib/onlyChild.js",
+            "size": 1338
+          },
+          {
+            "name": "./node_modules/react/lib/getIteratorFn.js",
+            "size": 1119
+          },
+          {
+            "name": "./node_modules/react/lib/PooledClass.js",
+            "size": 3356
+          },
+          {
+            "name": "./node_modules/object-assign/index.js",
+            "size": 2108
+          },
+          {
+            "name": "./node_modules/react/lib/ReactNoopUpdateQueue.js",
+            "size": 3362
+          },
+          {
+            "name": "./node_modules/css-loader/lib/css-base.js",
+            "size": 2260
+          },
+          {
+            "name": "./node_modules/react/lib/React.js",
+            "size": 5078
+          },
+          {
+            "name": "./node_modules/react/lib/ReactVersion.js",
+            "size": 350
+          },
+          {
+            "name": "./node_modules/prop-types/checkPropTypes.js",
+            "size": 2935
+          },
+          {
+            "name": "./node_modules/react/lib/createClass.js",
+            "size": 688
+          },
+          {
+            "name": "./node_modules/prop-types/factoryWithTypeCheckers.js",
+            "size": 18600
+          },
+          {
+            "name": "./node_modules/react/lib/ReactElementSymbol.js",
+            "size": 622
+          },
+          {
+            "name": "./node_modules/react/lib/ReactChildren.js",
+            "size": 6189
+          },
+          {
+            "name": "./node_modules/style-loader/lib/addStyles.js",
+            "size": 8704
+          },
+          {
+            "name": "./node_modules/react/lib/traverseAllChildren.js",
+            "size": 7030
+          },
+          {
+            "name": "./node_modules/react/lib/ReactBaseClasses.js",
+            "size": 5436
+          },
+          {
+            "name": "./node_modules/react/lib/canDefineProperty.js",
+            "size": 661
+          },
+          {
+            "name": "./node_modules/react/lib/ReactPropTypes.js",
+            "size": 500
+          },
+          {
+            "name": "./node_modules/fbjs/lib/emptyObject.js",
+            "size": 458
+          },
+          {
+            "name": "./node_modules/react/react.js",
+            "size": 56
+          },
+          {
+            "name": "./node_modules/react/lib/ReactElement.js",
+            "size": 11233
+          },
+          {
+            "name": "./node_modules/fbjs/lib/warning.js",
+            "size": 2016
+          },
+          {
+            "name": "./node_modules/react/lib/reactProdInvariant.js",
+            "size": 1236
+          },
+          {
+            "name": "./node_modules/react/lib/lowPriorityWarning.js",
+            "size": 2162
+          },
+          {
+            "name": "./node_modules/fbjs/lib/invariant.js",
+            "size": 1632
+          },
+          {
+            "name": "./node_modules/fbjs/lib/emptyFunction.js",
+            "size": 1085
+          },
+          {
+            "name": "./node_modules/prop-types/factory.js",
+            "size": 890
+          },
+          {
+            "name": "./node_modules/prop-types/lib/ReactPropTypesSecret.js",
+            "size": 436
+          },
+          {
+            "name": "./node_modules/react/lib/ReactCurrentOwner.js",
+            "size": 621
+          },
+          {
+            "name": "./node_modules/style-loader/lib/urls.js",
+            "size": 3008
+          },
+          {
+            "name": "./node_modules/react/lib/KeyEscapeUtils.js",
+            "size": 1294
+          },
+          {
+            "name": "./node_modules/react/lib/ReactDOMFactories.js",
+            "size": 5481
+          },
+          {
+            "name": "./node_modules/create-react-class/factory.js",
+            "size": 28376
+          }
+        ],
+        "parents": [
+          3
+        ],
+        "rendered": true,
+        "inital": true,
+        "entry": false
+      },
+      {
+        "size": 803,
+        "files": [
+          "app.2dc3127a.js",
+          "app.8ac75fe2.css",
+          "app.2dc3127a.js.map",
+          "app.8ac75fe2.css.map"
+        ],
+        "modules": [
+          {
+            "name": "./app/main.css",
+            "size": 41
+          },
+          {
+            "name": "./app/index.js",
+            "size": 218
+          },
+          {
+            "name": "./node_modules/font-awesome/css/font-awesome.css",
+            "size": 41
+          },
+          {
+            "name": "./app/component.js",
+            "size": 356
+          },
+          {
+            "name": "./node_modules/purecss/build/pure-min.css",
+            "size": 41
+          },
+          {
+            "name": "./app/shake.js",
+            "size": 106
+          }
+        ],
+        "parents": [
+          1
+        ],
+        "rendered": true,
+        "inital": true,
+        "entry": false
+      },
+      {
+        "size": 0,
+        "files": [
+          "manifest.d174d360.js",
+          "manifest.d174d360.js.map"
+        ],
+        "modules": [],
+        "parents": [],
+        "rendered": true,
+        "inital": true,
+        "entry": true
+      }
+    ],
+    "assets": [
+      {
+        "name": "manifest.d174d360.js",
+        "chunks": [
+          3
+        ],
+        "size": 1509
+      },
+      {
+        "name": "fontawesome-webfont.912ec66d.svg",
+        "chunks": [],
+        "size": 444379
+      },
+      {
+        "name": "fontawesome-webfont.674f50d2.eot",
+        "chunks": [],
+        "size": 165742
+      },
+      {
+        "name": "fontawesome-webfont.fee66e71.woff",
+        "chunks": [],
+        "size": 98024
+      },
+      {
+        "name": "fontawesome-webfont.af7ae505.woff2",
+        "chunks": [],
+        "size": 77160
+      },
+      {
+        "name": "0.6b7419e4.js",
+        "chunks": [
+          0
+        ],
+        "size": 470
+      },
+      {
+        "name": "vendor.34ea39ef.js",
+        "chunks": [
+          1
+        ],
+        "size": 27157
+      },
+      {
+        "name": "app.2dc3127a.js",
+        "chunks": [
+          2
+        ],
+        "size": 791
+      },
+      {
+        "name": "fontawesome-webfont.b06871f2.ttf",
+        "chunks": [],
+        "size": 165548
+      },
+      {
+        "name": "app.8ac75fe2.css",
+        "chunks": [
+          2
+        ],
+        "size": 3614
+      },
+      {
+        "name": "0.6b7419e4.js.map",
+        "chunks": [
+          0
+        ],
+        "size": 1892
+      },
+      {
+        "name": "vendor.34ea39ef.js.map",
+        "chunks": [
+          1
+        ],
+        "size": 150696
+      },
+      {
+        "name": "app.2dc3127a.js.map",
+        "chunks": [
+          2
+        ],
+        "size": 1953
+      },
+      {
+        "name": "app.8ac75fe2.css.map",
+        "chunks": [
+          2
+        ],
+        "size": 93
+      },
+      {
+        "name": "manifest.d174d360.js.map",
+        "chunks": [
+          3
+        ],
+        "size": 5808
+      },
+      {
+        "name": "index.html",
+        "chunks": [],
+        "size": 368
+      },
+      {
+        "name": "../monitor/stats.json",
+        "chunks": [],
+        "size": 19221
+      }
+    ]
+  },
+  {
+    "timeStamp": 1505404805555,
+    "hash": "1df678b1d92ca4997904",
+    "version": "3.5.6",
+    "errors": [],
+    "modules": [
+      {
+        "name": "./app/main.css",
+        "size": 41,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./app/index.js",
+        "size": 218,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/font-awesome/css/font-awesome.css",
+        "size": 41,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/onlyChild.js",
+        "size": 1338,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/css-loader!./node_modules/font-awesome/css/font-awesome.css",
+        "size": 42041,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/getIteratorFn.js",
+        "size": 1119,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/PooledClass.js",
+        "size": 3356,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/object-assign/index.js",
+        "size": 2108,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/ReactNoopUpdateQueue.js",
+        "size": 3362,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/css-loader/lib/css-base.js",
+        "size": 2260,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/css-loader!./node_modules/purecss/build/pure-min.css",
+        "size": 16621,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/font-awesome/fonts/fontawesome-webfont.svg?v=4.7.0",
+        "size": 78,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/React.js",
+        "size": 5078,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/ReactVersion.js",
+        "size": 350,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0",
+        "size": 78,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/prop-types/checkPropTypes.js",
+        "size": 2935,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/css-loader!./app/main.css",
+        "size": 367,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/createClass.js",
+        "size": 688,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/prop-types/factoryWithTypeCheckers.js",
+        "size": 18600,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/ReactElementSymbol.js",
+        "size": 622,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./app/lazy.css",
+        "size": 997,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/ReactChildren.js",
+        "size": 6189,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/style-loader/lib/addStyles.js",
+        "size": 8704,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/traverseAllChildren.js",
+        "size": 7030,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/ReactBaseClasses.js",
+        "size": 5436,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/canDefineProperty.js",
+        "size": 661,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/ReactPropTypes.js",
+        "size": 500,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/fbjs/lib/emptyObject.js",
+        "size": 458,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/react.js",
+        "size": 56,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/ReactElement.js",
+        "size": 11233,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./app/component.js",
+        "size": 356,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/fbjs/lib/warning.js",
+        "size": 2016,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/reactProdInvariant.js",
+        "size": 1236,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/lowPriorityWarning.js",
+        "size": 2162,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/purecss/build/pure-min.css",
+        "size": 41,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/font-awesome/fonts/fontawesome-webfont.eot?v=4.7.0",
+        "size": 78,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/font-awesome/fonts/fontawesome-webfont.eot",
+        "size": 78,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./app/lazy.js",
+        "size": 55,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/fbjs/lib/invariant.js",
+        "size": 1632,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/fbjs/lib/emptyFunction.js",
+        "size": 1085,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/prop-types/factory.js",
+        "size": 890,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/prop-types/lib/ReactPropTypesSecret.js",
+        "size": 436,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/font-awesome/fonts/fontawesome-webfont.woff?v=4.7.0",
+        "size": 79,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/ReactCurrentOwner.js",
+        "size": 621,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/style-loader/lib/urls.js",
+        "size": 3008,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/css-loader!./app/lazy.css",
+        "size": 188,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0",
+        "size": 80,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/KeyEscapeUtils.js",
+        "size": 1294,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./app/logo.png",
+        "size": 1117,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/ReactDOMFactories.js",
+        "size": 5481,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/create-react-class/factory.js",
+        "size": 28376,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./app/shake.js",
+        "size": 106,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      }
+    ],
+    "size": 132363,
+    "chunks": [
+      {
+        "size": 1240,
+        "files": [
+          "0.6b7419e4.js",
+          "0.6b7419e4.js.map"
+        ],
+        "modules": [
+          {
+            "name": "./app/lazy.css",
+            "size": 997
+          },
+          {
+            "name": "./app/lazy.js",
+            "size": 55
+          },
+          {
+            "name": "./node_modules/css-loader!./app/lazy.css",
+            "size": 188
+          }
+        ],
+        "parents": [
+          2
+        ],
+        "rendered": true,
+        "inital": false,
+        "entry": false
+      },
+      {
+        "size": 130320,
+        "files": [
+          "vendor.34ea39ef.js",
+          "vendor.34ea39ef.js.map"
+        ],
+        "modules": [
+          {
+            "name": "./node_modules/react/lib/onlyChild.js",
+            "size": 1338
+          },
+          {
+            "name": "./node_modules/react/lib/getIteratorFn.js",
+            "size": 1119
+          },
+          {
+            "name": "./node_modules/react/lib/PooledClass.js",
+            "size": 3356
+          },
+          {
+            "name": "./node_modules/object-assign/index.js",
+            "size": 2108
+          },
+          {
+            "name": "./node_modules/react/lib/ReactNoopUpdateQueue.js",
+            "size": 3362
+          },
+          {
+            "name": "./node_modules/css-loader/lib/css-base.js",
+            "size": 2260
+          },
+          {
+            "name": "./node_modules/react/lib/React.js",
+            "size": 5078
+          },
+          {
+            "name": "./node_modules/react/lib/ReactVersion.js",
+            "size": 350
+          },
+          {
+            "name": "./node_modules/prop-types/checkPropTypes.js",
+            "size": 2935
+          },
+          {
+            "name": "./node_modules/react/lib/createClass.js",
+            "size": 688
+          },
+          {
+            "name": "./node_modules/prop-types/factoryWithTypeCheckers.js",
+            "size": 18600
+          },
+          {
+            "name": "./node_modules/react/lib/ReactElementSymbol.js",
+            "size": 622
+          },
+          {
+            "name": "./node_modules/react/lib/ReactChildren.js",
+            "size": 6189
+          },
+          {
+            "name": "./node_modules/style-loader/lib/addStyles.js",
+            "size": 8704
+          },
+          {
+            "name": "./node_modules/react/lib/traverseAllChildren.js",
+            "size": 7030
+          },
+          {
+            "name": "./node_modules/react/lib/ReactBaseClasses.js",
+            "size": 5436
+          },
+          {
+            "name": "./node_modules/react/lib/canDefineProperty.js",
+            "size": 661
+          },
+          {
+            "name": "./node_modules/react/lib/ReactPropTypes.js",
+            "size": 500
+          },
+          {
+            "name": "./node_modules/fbjs/lib/emptyObject.js",
+            "size": 458
+          },
+          {
+            "name": "./node_modules/react/react.js",
+            "size": 56
+          },
+          {
+            "name": "./node_modules/react/lib/ReactElement.js",
+            "size": 11233
+          },
+          {
+            "name": "./node_modules/fbjs/lib/warning.js",
+            "size": 2016
+          },
+          {
+            "name": "./node_modules/react/lib/reactProdInvariant.js",
+            "size": 1236
+          },
+          {
+            "name": "./node_modules/react/lib/lowPriorityWarning.js",
+            "size": 2162
+          },
+          {
+            "name": "./node_modules/fbjs/lib/invariant.js",
+            "size": 1632
+          },
+          {
+            "name": "./node_modules/fbjs/lib/emptyFunction.js",
+            "size": 1085
+          },
+          {
+            "name": "./node_modules/prop-types/factory.js",
+            "size": 890
+          },
+          {
+            "name": "./node_modules/prop-types/lib/ReactPropTypesSecret.js",
+            "size": 436
+          },
+          {
+            "name": "./node_modules/react/lib/ReactCurrentOwner.js",
+            "size": 621
+          },
+          {
+            "name": "./node_modules/style-loader/lib/urls.js",
+            "size": 3008
+          },
+          {
+            "name": "./node_modules/react/lib/KeyEscapeUtils.js",
+            "size": 1294
+          },
+          {
+            "name": "./node_modules/react/lib/ReactDOMFactories.js",
+            "size": 5481
+          },
+          {
+            "name": "./node_modules/create-react-class/factory.js",
+            "size": 28376
+          }
+        ],
+        "parents": [
+          3
+        ],
+        "rendered": true,
+        "inital": true,
+        "entry": false
+      },
+      {
+        "size": 803,
+        "files": [
+          "app.2dc3127a.js",
+          "app.8ac75fe2.css",
+          "app.2dc3127a.js.map",
+          "app.8ac75fe2.css.map"
+        ],
+        "modules": [
+          {
+            "name": "./app/main.css",
+            "size": 41
+          },
+          {
+            "name": "./app/index.js",
+            "size": 218
+          },
+          {
+            "name": "./node_modules/font-awesome/css/font-awesome.css",
+            "size": 41
+          },
+          {
+            "name": "./app/component.js",
+            "size": 356
+          },
+          {
+            "name": "./node_modules/purecss/build/pure-min.css",
+            "size": 41
+          },
+          {
+            "name": "./app/shake.js",
+            "size": 106
+          }
+        ],
+        "parents": [
+          1
+        ],
+        "rendered": true,
+        "inital": true,
+        "entry": false
+      },
+      {
+        "size": 0,
+        "files": [
+          "manifest.d174d360.js",
+          "manifest.d174d360.js.map"
+        ],
+        "modules": [],
+        "parents": [],
+        "rendered": true,
+        "inital": true,
+        "entry": true
+      }
+    ],
+    "assets": [
+      {
+        "name": "manifest.d174d360.js",
+        "chunks": [
+          3
+        ],
+        "size": 1509
+      },
+      {
+        "name": "fontawesome-webfont.912ec66d.svg",
+        "chunks": [],
+        "size": 444379
+      },
+      {
+        "name": "fontawesome-webfont.674f50d2.eot",
+        "chunks": [],
+        "size": 165742
+      },
+      {
+        "name": "fontawesome-webfont.fee66e71.woff",
+        "chunks": [],
+        "size": 98024
+      },
+      {
+        "name": "fontawesome-webfont.af7ae505.woff2",
+        "chunks": [],
+        "size": 77160
+      },
+      {
+        "name": "0.6b7419e4.js",
+        "chunks": [
+          0
+        ],
+        "size": 470
+      },
+      {
+        "name": "vendor.34ea39ef.js",
+        "chunks": [
+          1
+        ],
+        "size": 27157
+      },
+      {
+        "name": "app.2dc3127a.js",
+        "chunks": [
+          2
+        ],
+        "size": 791
+      },
+      {
+        "name": "fontawesome-webfont.b06871f2.ttf",
+        "chunks": [],
+        "size": 165548
+      },
+      {
+        "name": "app.8ac75fe2.css",
+        "chunks": [
+          2
+        ],
+        "size": 3614
+      },
+      {
+        "name": "0.6b7419e4.js.map",
+        "chunks": [
+          0
+        ],
+        "size": 1892
+      },
+      {
+        "name": "vendor.34ea39ef.js.map",
+        "chunks": [
+          1
+        ],
+        "size": 150696
+      },
+      {
+        "name": "app.2dc3127a.js.map",
+        "chunks": [
+          2
+        ],
+        "size": 1953
+      },
+      {
+        "name": "app.8ac75fe2.css.map",
+        "chunks": [
+          2
+        ],
+        "size": 93
+      },
+      {
+        "name": "manifest.d174d360.js.map",
+        "chunks": [
+          3
+        ],
+        "size": 5808
+      },
+      {
+        "name": "index.html",
+        "chunks": [],
+        "size": 368
+      },
+      {
+        "name": "../monitor/stats.json",
+        "chunks": [],
+        "size": 28835
+      }
+    ]
+  },
+  {
+    "timeStamp": 1505404859414,
+    "hash": "ee801a0fe58a0e41465e",
+    "version": "3.5.6",
+    "errors": [],
+    "modules": [
+      {
+        "name": "./app/main.css",
+        "size": 41,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./app/index.js",
+        "size": 218,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/font-awesome/css/font-awesome.css",
+        "size": 41,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/onlyChild.js",
+        "size": 1338,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/css-loader!./node_modules/font-awesome/css/font-awesome.css",
+        "size": 42041,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/getIteratorFn.js",
+        "size": 1119,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/PooledClass.js",
+        "size": 3356,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/object-assign/index.js",
+        "size": 2108,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/ReactNoopUpdateQueue.js",
+        "size": 3362,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/css-loader/lib/css-base.js",
+        "size": 2260,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/css-loader!./node_modules/purecss/build/pure-min.css",
+        "size": 16621,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/font-awesome/fonts/fontawesome-webfont.svg?v=4.7.0",
+        "size": 78,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/React.js",
+        "size": 5078,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/ReactVersion.js",
+        "size": 350,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0",
+        "size": 78,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/prop-types/checkPropTypes.js",
+        "size": 2935,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/css-loader!./app/main.css",
+        "size": 367,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/createClass.js",
+        "size": 688,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/prop-types/factoryWithTypeCheckers.js",
+        "size": 18600,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/ReactElementSymbol.js",
+        "size": 622,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./app/lazy.css",
+        "size": 997,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/ReactChildren.js",
+        "size": 6189,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/style-loader/lib/addStyles.js",
+        "size": 8704,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/traverseAllChildren.js",
+        "size": 7030,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/ReactBaseClasses.js",
+        "size": 5436,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/canDefineProperty.js",
+        "size": 661,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/ReactPropTypes.js",
+        "size": 500,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/fbjs/lib/emptyObject.js",
+        "size": 458,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/react.js",
+        "size": 56,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/ReactElement.js",
+        "size": 11233,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./app/component.js",
+        "size": 356,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/fbjs/lib/warning.js",
+        "size": 2016,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/reactProdInvariant.js",
+        "size": 1236,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/lowPriorityWarning.js",
+        "size": 2162,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/purecss/build/pure-min.css",
+        "size": 41,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/font-awesome/fonts/fontawesome-webfont.eot?v=4.7.0",
+        "size": 78,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/font-awesome/fonts/fontawesome-webfont.eot",
+        "size": 78,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./app/lazy.js",
+        "size": 55,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/fbjs/lib/invariant.js",
+        "size": 1632,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/fbjs/lib/emptyFunction.js",
+        "size": 1085,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/prop-types/factory.js",
+        "size": 890,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/prop-types/lib/ReactPropTypesSecret.js",
+        "size": 436,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/font-awesome/fonts/fontawesome-webfont.woff?v=4.7.0",
+        "size": 79,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/ReactCurrentOwner.js",
+        "size": 621,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/style-loader/lib/urls.js",
+        "size": 3008,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/css-loader!./app/lazy.css",
+        "size": 188,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0",
+        "size": 80,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/KeyEscapeUtils.js",
+        "size": 1294,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./app/logo.png",
+        "size": 1117,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/ReactDOMFactories.js",
+        "size": 5481,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/create-react-class/factory.js",
+        "size": 28376,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./app/shake.js",
+        "size": 106,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      }
+    ],
+    "size": 132363,
+    "chunks": [
+      {
+        "size": 1240,
+        "files": [
+          "0.6b7419e4.js",
+          "0.6b7419e4.js.map"
+        ],
+        "modules": [
+          {
+            "name": "./app/lazy.css",
+            "size": 997
+          },
+          {
+            "name": "./app/lazy.js",
+            "size": 55
+          },
+          {
+            "name": "./node_modules/css-loader!./app/lazy.css",
+            "size": 188
+          }
+        ],
+        "parents": [
+          2
+        ],
+        "rendered": true,
+        "inital": false,
+        "entry": false
+      },
+      {
+        "size": 130320,
+        "files": [
+          "vendor.34ea39ef.js",
+          "vendor.34ea39ef.js.map"
+        ],
+        "modules": [
+          {
+            "name": "./node_modules/react/lib/onlyChild.js",
+            "size": 1338
+          },
+          {
+            "name": "./node_modules/react/lib/getIteratorFn.js",
+            "size": 1119
+          },
+          {
+            "name": "./node_modules/react/lib/PooledClass.js",
+            "size": 3356
+          },
+          {
+            "name": "./node_modules/object-assign/index.js",
+            "size": 2108
+          },
+          {
+            "name": "./node_modules/react/lib/ReactNoopUpdateQueue.js",
+            "size": 3362
+          },
+          {
+            "name": "./node_modules/css-loader/lib/css-base.js",
+            "size": 2260
+          },
+          {
+            "name": "./node_modules/react/lib/React.js",
+            "size": 5078
+          },
+          {
+            "name": "./node_modules/react/lib/ReactVersion.js",
+            "size": 350
+          },
+          {
+            "name": "./node_modules/prop-types/checkPropTypes.js",
+            "size": 2935
+          },
+          {
+            "name": "./node_modules/react/lib/createClass.js",
+            "size": 688
+          },
+          {
+            "name": "./node_modules/prop-types/factoryWithTypeCheckers.js",
+            "size": 18600
+          },
+          {
+            "name": "./node_modules/react/lib/ReactElementSymbol.js",
+            "size": 622
+          },
+          {
+            "name": "./node_modules/react/lib/ReactChildren.js",
+            "size": 6189
+          },
+          {
+            "name": "./node_modules/style-loader/lib/addStyles.js",
+            "size": 8704
+          },
+          {
+            "name": "./node_modules/react/lib/traverseAllChildren.js",
+            "size": 7030
+          },
+          {
+            "name": "./node_modules/react/lib/ReactBaseClasses.js",
+            "size": 5436
+          },
+          {
+            "name": "./node_modules/react/lib/canDefineProperty.js",
+            "size": 661
+          },
+          {
+            "name": "./node_modules/react/lib/ReactPropTypes.js",
+            "size": 500
+          },
+          {
+            "name": "./node_modules/fbjs/lib/emptyObject.js",
+            "size": 458
+          },
+          {
+            "name": "./node_modules/react/react.js",
+            "size": 56
+          },
+          {
+            "name": "./node_modules/react/lib/ReactElement.js",
+            "size": 11233
+          },
+          {
+            "name": "./node_modules/fbjs/lib/warning.js",
+            "size": 2016
+          },
+          {
+            "name": "./node_modules/react/lib/reactProdInvariant.js",
+            "size": 1236
+          },
+          {
+            "name": "./node_modules/react/lib/lowPriorityWarning.js",
+            "size": 2162
+          },
+          {
+            "name": "./node_modules/fbjs/lib/invariant.js",
+            "size": 1632
+          },
+          {
+            "name": "./node_modules/fbjs/lib/emptyFunction.js",
+            "size": 1085
+          },
+          {
+            "name": "./node_modules/prop-types/factory.js",
+            "size": 890
+          },
+          {
+            "name": "./node_modules/prop-types/lib/ReactPropTypesSecret.js",
+            "size": 436
+          },
+          {
+            "name": "./node_modules/react/lib/ReactCurrentOwner.js",
+            "size": 621
+          },
+          {
+            "name": "./node_modules/style-loader/lib/urls.js",
+            "size": 3008
+          },
+          {
+            "name": "./node_modules/react/lib/KeyEscapeUtils.js",
+            "size": 1294
+          },
+          {
+            "name": "./node_modules/react/lib/ReactDOMFactories.js",
+            "size": 5481
+          },
+          {
+            "name": "./node_modules/create-react-class/factory.js",
+            "size": 28376
+          }
+        ],
+        "parents": [
+          3
+        ],
+        "rendered": true,
+        "inital": true,
+        "entry": false
+      },
+      {
+        "size": 803,
+        "files": [
+          "app.2dc3127a.js",
+          "app.8ac75fe2.css",
+          "app.2dc3127a.js.map",
+          "app.8ac75fe2.css.map"
+        ],
+        "modules": [
+          {
+            "name": "./app/main.css",
+            "size": 41
+          },
+          {
+            "name": "./app/index.js",
+            "size": 218
+          },
+          {
+            "name": "./node_modules/font-awesome/css/font-awesome.css",
+            "size": 41
+          },
+          {
+            "name": "./app/component.js",
+            "size": 356
+          },
+          {
+            "name": "./node_modules/purecss/build/pure-min.css",
+            "size": 41
+          },
+          {
+            "name": "./app/shake.js",
+            "size": 106
+          }
+        ],
+        "parents": [
+          1
+        ],
+        "rendered": true,
+        "inital": true,
+        "entry": false
+      },
+      {
+        "size": 0,
+        "files": [
+          "manifest.d174d360.js",
+          "manifest.d174d360.js.map"
+        ],
+        "modules": [],
+        "parents": [],
+        "rendered": true,
+        "inital": true,
+        "entry": true
+      }
+    ],
+    "assets": [
+      {
+        "name": "manifest.d174d360.js",
+        "chunks": [
+          3
+        ],
+        "size": 1509
+      },
+      {
+        "name": "fontawesome-webfont.912ec66d.svg",
+        "chunks": [],
+        "size": 444379
+      },
+      {
+        "name": "fontawesome-webfont.674f50d2.eot",
+        "chunks": [],
+        "size": 165742
+      },
+      {
+        "name": "fontawesome-webfont.fee66e71.woff",
+        "chunks": [],
+        "size": 98024
+      },
+      {
+        "name": "fontawesome-webfont.af7ae505.woff2",
+        "chunks": [],
+        "size": 77160
+      },
+      {
+        "name": "0.6b7419e4.js",
+        "chunks": [
+          0
+        ],
+        "size": 470
+      },
+      {
+        "name": "vendor.34ea39ef.js",
+        "chunks": [
+          1
+        ],
+        "size": 27157
+      },
+      {
+        "name": "app.2dc3127a.js",
+        "chunks": [
+          2
+        ],
+        "size": 791
+      },
+      {
+        "name": "fontawesome-webfont.b06871f2.ttf",
+        "chunks": [],
+        "size": 165548
+      },
+      {
+        "name": "app.8ac75fe2.css",
+        "chunks": [
+          2
+        ],
+        "size": 3614
+      },
+      {
+        "name": "0.6b7419e4.js.map",
+        "chunks": [
+          0
+        ],
+        "size": 1892
+      },
+      {
+        "name": "vendor.34ea39ef.js.map",
+        "chunks": [
+          1
+        ],
+        "size": 150696
+      },
+      {
+        "name": "app.2dc3127a.js.map",
+        "chunks": [
+          2
+        ],
+        "size": 1953
+      },
+      {
+        "name": "app.8ac75fe2.css.map",
+        "chunks": [
+          2
+        ],
+        "size": 93
+      },
+      {
+        "name": "manifest.d174d360.js.map",
+        "chunks": [
+          3
+        ],
+        "size": 5808
+      },
+      {
+        "name": "index.html",
+        "chunks": [],
+        "size": 368
+      },
+      {
+        "name": "../monitor/stats.json",
+        "chunks": [],
+        "size": 4
+      }
+    ]
+  },
+  {
+    "timeStamp": 1505411197216,
+    "hash": "1df678b1d92ca4997904",
+    "version": "3.5.6",
+    "errors": [],
+    "modules": [
+      {
+        "name": "./app/main.css",
+        "size": 41,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./app/index.js",
+        "size": 218,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/font-awesome/css/font-awesome.css",
+        "size": 41,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/onlyChild.js",
+        "size": 1338,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/css-loader!./node_modules/font-awesome/css/font-awesome.css",
+        "size": 42041,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/getIteratorFn.js",
+        "size": 1119,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/PooledClass.js",
+        "size": 3356,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/object-assign/index.js",
+        "size": 2108,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/ReactNoopUpdateQueue.js",
+        "size": 3362,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/css-loader/lib/css-base.js",
+        "size": 2260,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/css-loader!./node_modules/purecss/build/pure-min.css",
+        "size": 16621,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/font-awesome/fonts/fontawesome-webfont.svg?v=4.7.0",
+        "size": 78,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/React.js",
+        "size": 5078,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/ReactVersion.js",
+        "size": 350,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0",
+        "size": 78,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/prop-types/checkPropTypes.js",
+        "size": 2935,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/css-loader!./app/main.css",
+        "size": 367,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/createClass.js",
+        "size": 688,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/prop-types/factoryWithTypeCheckers.js",
+        "size": 18600,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/ReactElementSymbol.js",
+        "size": 622,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./app/lazy.css",
+        "size": 997,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/ReactChildren.js",
+        "size": 6189,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/style-loader/lib/addStyles.js",
+        "size": 8704,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/traverseAllChildren.js",
+        "size": 7030,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/ReactBaseClasses.js",
+        "size": 5436,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/canDefineProperty.js",
+        "size": 661,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/ReactPropTypes.js",
+        "size": 500,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/fbjs/lib/emptyObject.js",
+        "size": 458,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/react.js",
+        "size": 56,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/ReactElement.js",
+        "size": 11233,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./app/component.js",
+        "size": 356,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/fbjs/lib/warning.js",
+        "size": 2016,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/reactProdInvariant.js",
+        "size": 1236,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/lowPriorityWarning.js",
+        "size": 2162,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/purecss/build/pure-min.css",
+        "size": 41,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/font-awesome/fonts/fontawesome-webfont.eot?v=4.7.0",
+        "size": 78,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/font-awesome/fonts/fontawesome-webfont.eot",
+        "size": 78,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./app/lazy.js",
+        "size": 55,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/fbjs/lib/invariant.js",
+        "size": 1632,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/fbjs/lib/emptyFunction.js",
+        "size": 1085,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/prop-types/factory.js",
+        "size": 890,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/prop-types/lib/ReactPropTypesSecret.js",
+        "size": 436,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/font-awesome/fonts/fontawesome-webfont.woff?v=4.7.0",
+        "size": 79,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/ReactCurrentOwner.js",
+        "size": 621,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/style-loader/lib/urls.js",
+        "size": 3008,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/css-loader!./app/lazy.css",
+        "size": 188,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0",
+        "size": 80,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/KeyEscapeUtils.js",
+        "size": 1294,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./app/logo.png",
+        "size": 1117,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/react/lib/ReactDOMFactories.js",
+        "size": 5481,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./node_modules/create-react-class/factory.js",
+        "size": 28376,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      },
+      {
+        "name": "./app/shake.js",
+        "size": 106,
+        "warnings": 0,
+        "built": true,
+        "errors": 0
+      }
+    ],
+    "size": 1145209,
+    "chunks": [
+      {
+        "size": 1240,
+        "files": [
+          "0.6b7419e4.js",
+          "0.6b7419e4.js.map"
+        ],
+        "modules": [
+          {
+            "name": "./app/lazy.css",
+            "size": 997
+          },
+          {
+            "name": "./app/lazy.js",
+            "size": 55
+          },
+          {
+            "name": "./node_modules/css-loader!./app/lazy.css",
+            "size": 188
+          }
+        ],
+        "parents": [
+          2
+        ],
+        "rendered": true,
+        "inital": false,
+        "entry": false
+      },
+      {
+        "size": 130320,
+        "files": [
+          "vendor.34ea39ef.js",
+          "vendor.34ea39ef.js.map"
+        ],
+        "modules": [
+          {
+            "name": "./node_modules/react/lib/onlyChild.js",
+            "size": 1338
+          },
+          {
+            "name": "./node_modules/react/lib/getIteratorFn.js",
+            "size": 1119
+          },
+          {
+            "name": "./node_modules/react/lib/PooledClass.js",
+            "size": 3356
+          },
+          {
+            "name": "./node_modules/object-assign/index.js",
+            "size": 2108
+          },
+          {
+            "name": "./node_modules/react/lib/ReactNoopUpdateQueue.js",
+            "size": 3362
+          },
+          {
+            "name": "./node_modules/css-loader/lib/css-base.js",
+            "size": 2260
+          },
+          {
+            "name": "./node_modules/react/lib/React.js",
+            "size": 5078
+          },
+          {
+            "name": "./node_modules/react/lib/ReactVersion.js",
+            "size": 350
+          },
+          {
+            "name": "./node_modules/prop-types/checkPropTypes.js",
+            "size": 2935
+          },
+          {
+            "name": "./node_modules/react/lib/createClass.js",
+            "size": 688
+          },
+          {
+            "name": "./node_modules/prop-types/factoryWithTypeCheckers.js",
+            "size": 18600
+          },
+          {
+            "name": "./node_modules/react/lib/ReactElementSymbol.js",
+            "size": 622
+          },
+          {
+            "name": "./node_modules/react/lib/ReactChildren.js",
+            "size": 6189
+          },
+          {
+            "name": "./node_modules/style-loader/lib/addStyles.js",
+            "size": 8704
+          },
+          {
+            "name": "./node_modules/react/lib/traverseAllChildren.js",
+            "size": 7030
+          },
+          {
+            "name": "./node_modules/react/lib/ReactBaseClasses.js",
+            "size": 5436
+          },
+          {
+            "name": "./node_modules/react/lib/canDefineProperty.js",
+            "size": 661
+          },
+          {
+            "name": "./node_modules/react/lib/ReactPropTypes.js",
+            "size": 500
+          },
+          {
+            "name": "./node_modules/fbjs/lib/emptyObject.js",
+            "size": 458
+          },
+          {
+            "name": "./node_modules/react/react.js",
+            "size": 56
+          },
+          {
+            "name": "./node_modules/react/lib/ReactElement.js",
+            "size": 11233
+          },
+          {
+            "name": "./node_modules/fbjs/lib/warning.js",
+            "size": 2016
+          },
+          {
+            "name": "./node_modules/react/lib/reactProdInvariant.js",
+            "size": 1236
+          },
+          {
+            "name": "./node_modules/react/lib/lowPriorityWarning.js",
+            "size": 2162
+          },
+          {
+            "name": "./node_modules/fbjs/lib/invariant.js",
+            "size": 1632
+          },
+          {
+            "name": "./node_modules/fbjs/lib/emptyFunction.js",
+            "size": 1085
+          },
+          {
+            "name": "./node_modules/prop-types/factory.js",
+            "size": 890
+          },
+          {
+            "name": "./node_modules/prop-types/lib/ReactPropTypesSecret.js",
+            "size": 436
+          },
+          {
+            "name": "./node_modules/react/lib/ReactCurrentOwner.js",
+            "size": 621
+          },
+          {
+            "name": "./node_modules/style-loader/lib/urls.js",
+            "size": 3008
+          },
+          {
+            "name": "./node_modules/react/lib/KeyEscapeUtils.js",
+            "size": 1294
+          },
+          {
+            "name": "./node_modules/react/lib/ReactDOMFactories.js",
+            "size": 5481
+          },
+          {
+            "name": "./node_modules/create-react-class/factory.js",
+            "size": 28376
+          }
+        ],
+        "parents": [
+          3
+        ],
+        "rendered": true,
+        "inital": true,
+        "entry": false
+      },
+      {
+        "size": 803,
+        "files": [
+          "app.2dc3127a.js",
+          "app.8ac75fe2.css",
+          "app.2dc3127a.js.map",
+          "app.8ac75fe2.css.map"
+        ],
+        "modules": [
+          {
+            "name": "./app/main.css",
+            "size": 41
+          },
+          {
+            "name": "./app/index.js",
+            "size": 218
+          },
+          {
+            "name": "./node_modules/font-awesome/css/font-awesome.css",
+            "size": 41
+          },
+          {
+            "name": "./app/component.js",
+            "size": 356
+          },
+          {
+            "name": "./node_modules/purecss/build/pure-min.css",
+            "size": 41
+          },
+          {
+            "name": "./app/shake.js",
+            "size": 106
+          }
+        ],
+        "parents": [
+          1
+        ],
+        "rendered": true,
+        "inital": true,
+        "entry": false
+      },
+      {
+        "size": 0,
+        "files": [
+          "manifest.d174d360.js",
+          "manifest.d174d360.js.map"
+        ],
+        "modules": [],
+        "parents": [],
+        "rendered": true,
+        "inital": true,
+        "entry": true
+      }
+    ],
+    "assets": [
+      {
+        "name": "manifest.d174d360.js",
+        "chunks": [
+          3
+        ],
+        "size": 1509
+      },
+      {
+        "name": "fontawesome-webfont.912ec66d.svg",
+        "chunks": [],
+        "size": 444379
+      },
+      {
+        "name": "fontawesome-webfont.674f50d2.eot",
+        "chunks": [],
+        "size": 165742
+      },
+      {
+        "name": "fontawesome-webfont.fee66e71.woff",
+        "chunks": [],
+        "size": 98024
+      },
+      {
+        "name": "fontawesome-webfont.af7ae505.woff2",
+        "chunks": [],
+        "size": 77160
+      },
+      {
+        "name": "0.6b7419e4.js",
+        "chunks": [
+          0
+        ],
+        "size": 470
+      },
+      {
+        "name": "vendor.34ea39ef.js",
+        "chunks": [
+          1
+        ],
+        "size": 27157
+      },
+      {
+        "name": "app.2dc3127a.js",
+        "chunks": [
+          2
+        ],
+        "size": 791
+      },
+      {
+        "name": "fontawesome-webfont.b06871f2.ttf",
+        "chunks": [],
+        "size": 165548
+      },
+      {
+        "name": "app.8ac75fe2.css",
+        "chunks": [
+          2
+        ],
+        "size": 3614
+      },
+      {
+        "name": "0.6b7419e4.js.map",
+        "chunks": [
+          0
+        ],
+        "size": 1892
+      },
+      {
+        "name": "vendor.34ea39ef.js.map",
+        "chunks": [
+          1
+        ],
+        "size": 150696
+      },
+      {
+        "name": "app.2dc3127a.js.map",
+        "chunks": [
+          2
+        ],
+        "size": 1953
+      },
+      {
+        "name": "app.8ac75fe2.css.map",
+        "chunks": [
+          2
+        ],
+        "size": 93
+      },
+      {
+        "name": "manifest.d174d360.js.map",
+        "chunks": [
+          3
+        ],
+        "size": 5808
+      },
+      {
+        "name": "index.html",
+        "chunks": [],
+        "size": 368
+      },
+      {
+        "name": "../monitor/stats.json",
+        "chunks": [],
+        "size": 5
+      }
+    ]
+  }
+]
