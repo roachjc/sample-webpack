@@ -6,6 +6,8 @@ const webpack = require('webpack');
 var BundleAnalyzerPlugin = require('webpack-bundle-analyzer').BundleAnalyzerPlugin;
 
 const parts = require('./webpack.parts');
+const MonitorStats = require('./plugins/monitor-stats');
+const statsFile = require('./monitor/stats.json');
 
 const PATHS = {
   app: path.join(__dirname, 'app'),
@@ -28,6 +30,11 @@ const commonConfig = merge([
       new HtmlWebpackPlugin({
         title: 'webpack demo',
       }),
+      new MonitorStats(
+        '../monitor/stats.json',
+        { timings: true, source: false },
+        statsFile
+      ),
     ],
   },
   // parts.lintJavaScript({ include: PATHS.app }),
@@ -58,11 +65,11 @@ const productionConfig = merge([
       // Hash module names to enable client caching
       new webpack.HashedModuleIdsPlugin(),
       // Use bundle analyser ... opens static html in browser on build
-      new BundleAnalyzerPlugin({
-        analyzerMode: 'static',
-        reportFilename: 'report.html',
-        defaultSizes: 'parsed',
-      }),
+      // new BundleAnalyzerPlugin({
+      //   analyzerMode: 'static',
+      //   reportFilename: 'report.html',
+      //   defaultSizes: 'parsed',
+      // }),
     ],
     // Helps with caching by assigning IDs to modules and storing here
     recordsPath: path.join(__dirname, 'records.json'),
